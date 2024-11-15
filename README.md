@@ -9,3 +9,38 @@ The SCA further claims that CO2 off gassing from roasted beans is the primary dr
 
 Having a full and comprehensive understanding of how coffee ages will allow for a better process for storing and selling coffee beans, preventing waste and sustaining the third-wave coffee industry. 
 
+## Authors
+Maya Fetzer  
+Kat Wakabayashi
+
+## Acknowledgements 
+#### This research was only possible due to the help of the following people, companies, and organizations:
+Bucknell University Department of Engineering
+Bucknell Robert R. Rooke Professorship 
+Dr. Ellen Chamberlain, Bucknell University Department of Geology
+Monica Hoover - Bucknell University Department of Environmental Engineering
+Diane Hall - Bucknell University Department of Chemical Engineering
+Karl Fisher, Alabaster Coffee Roaster
+Matt Bartucci, Thermo Fisher Scientific
+Fellow
+Baratza
+Brewista
+Acaia
+
+### Code acknowledgement:
+The code present in this repository was written using the help of GPTs, including OpenAI ChatGPT-4o and Google Gemini. 
+
+## Files in this repository
+
+## Prerequisites
+
+### Python
+Ensure you have Python 3.10 or later installed.
+
+### Libraries
+Install the following libraries using pip:
+
+```
+```
+
+## Explanation
