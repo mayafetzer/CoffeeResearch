@@ -15,16 +15,27 @@ Kat Wakabayashi
 
 ## Acknowledgements 
 #### This research was only possible due to the help of the following people, companies, and organizations:
+
 Bucknell University Department of Engineering
+
 Bucknell Robert R. Rooke Professorship 
+
 Dr. Ellen Chamberlain, Bucknell University Department of Geology
+
 Monica Hoover - Bucknell University Department of Environmental Engineering
+
 Diane Hall - Bucknell University Department of Chemical Engineering
+
 Karl Fisher, Alabaster Coffee Roaster
+
 Matt Bartucci, Thermo Fisher Scientific
+
 Fellow
+
 Baratza
+
 Brewista
+
 Acaia
 
 ### Code acknowledgement:
