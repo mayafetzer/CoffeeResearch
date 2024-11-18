@@ -13,6 +13,8 @@ of this model is to reduce the environmental and economic impacts of the coffee 
 
 # Ethics Analysis
 
+Deon's Ethics Checklist: https://huggingface.co/spaces/mayafetzer/CoffeeDeonsChecklist
+
 ## Authors
 Maya Fetzer  
 Dr. Kat Wakabayashi
@@ -44,6 +46,7 @@ The code present in this repository was written using the help of GPTs, includin
 ## Files in this repository
 
 Coffee_Freshness_Dataset_FA2024.xlsx - the dataset used to train the ML model 
+coffee_ethics_checklist.md - the Deon's Ethics Checklist for this ML model 
 
 ## Prerequisites
 
