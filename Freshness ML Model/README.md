@@ -43,6 +43,8 @@ The code present in this repository was written using the help of GPTs, includin
 
 ## Files in this repository
 
+Coffee_Freshness_Dataset_FA2024.xlsx - the dataset used to train the ML model 
+
 ## Prerequisites
 
 ### Python
@@ -52,6 +54,21 @@ Ensure you have Python 3.10 or later installed.
 Install the following libraries using pip:
 
 ```
+pip install gradio
+pip install pandas
+pip install numpy
+pip install sklearn
+pip install openpyxl
+pip install pickle5
 ```
 
-## Explanation
+### Explanation
+
+- **Streamlit**: Provides a simple way to create interactive web applications with Python.
+- **Matplotlib**: Used for creating visualizations like plots and charts.
+- **Pandas**: Offers data structures and analysis tools for working with tabular data.
+- **NumPy**: Provides efficient numerical operations and arrays.
+- **Sklearn**: Machine learning library.
+- **Gradio:** A user-friendly library for building and sharing interactive web interfaces for machine learning models and data science projects.
+- **Openpyxl:** A library for reading and writing Excel files in the XLSX format, making it easy to work with spreadsheets directly from Python.
+- **Pickle5:** An enhanced version of Python's pickle module for object serialization and
