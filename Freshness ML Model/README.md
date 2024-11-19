@@ -14,6 +14,7 @@ of this model is to reduce the environmental and economic impacts of the coffee 
 # Ethics Analysis
 
 Deon's Ethics Checklist: https://huggingface.co/spaces/mayafetzer/CoffeeDeonsChecklist
+
 Ethics DataCAD: https://huggingface.co/spaces/mayafetzer/CoffeeEthicsDataCAD
 
 ## Authors
