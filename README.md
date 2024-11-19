@@ -40,18 +40,3 @@ Acaia
 
 ### Code acknowledgement:
 The code present in this repository was written using the help of GPTs, including OpenAI ChatGPT-4o and Google Gemini. 
-
-## Files in this repository
-
-## Prerequisites
-
-### Python
-Ensure you have Python 3.10 or later installed.
-
-### Libraries
-Install the following libraries using pip:
-
-```
-```
-
-## Explanation
