@@ -11,6 +11,8 @@ of this model is to reduce the environmental and economic impacts of the coffee 
 
 # Public App
 
+https://huggingface.co/spaces/mayafetzer/CoffeeApp
+
 # Ethics Analysis
 
 Deon's Ethics Checklist: https://huggingface.co/spaces/mayafetzer/CoffeeDeonsChecklist
@@ -49,6 +51,11 @@ The code present in this repository was written using the help of GPTs, includin
 
 Coffee_Freshness_Dataset_FA2024.xlsx - the dataset used to train the ML model 
 coffee_ethics_checklist.md - the Deon's Ethics Checklist for this ML model 
+CHEG472_Machine_Learning_Project.ibynb - Google Colab file that shows the steps to developing the ML model
+app.py - gradio app to launch public app in Hugging Face
+best_model_bayes.pkl - ML model
+scaler.pkl - scaler model 
+requirements.txt - requirements for Hugging Face app 
 
 ## Prerequisites
 
