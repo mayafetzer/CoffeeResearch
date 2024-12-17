@@ -56,6 +56,8 @@ XGBoost was chosen because it consistently had the highest R2, RSME, and MAE val
 
 The dataset used is called Coffee_Freshness_Dataset_FA2024.xlsx and is provided in this repo. Before any machine learning was done, the dataset was cleaned and normalized. This allowed for the machine learning process to be more accurate. Also, various columns in the dataset were dropped because they either weren't collected, didn't have physical meaning, or were represented more clearly by another test that was done that is in the dataset. 
 
+All preprocessing and machine learning choices made using this dataset can be found in the .ipynb file attached in this repo. 
+
 # Public App
 
 https://huggingface.co/spaces/mayafetzer/CoffeeApp
